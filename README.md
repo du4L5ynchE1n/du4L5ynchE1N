@@ -5,8 +5,6 @@
   <img src="https://media.giphy.com/media/RKp3DW2ZwDlVS/giphy.gif" width="250"/>
 </div>
 
-<iframe src="https://giphy.com/embed/RKp3DW2ZwDlVS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-geass-lelouch-RKp3DW2ZwDlVS">via GIPHY</a></p>
-
 - 🔭 I’m currently working on an evasive shellcode loader
 - 🌱 I’m currently learning and interested in Red Teaming Ops and Malware Development 
 - 📫 How to reach me: w4k3_up_ne0 @ discord dot com
