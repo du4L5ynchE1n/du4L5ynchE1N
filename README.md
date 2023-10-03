@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning/interested in Red Teaming Ops and Malware Development 
 - 📫 How to reach me: w4k3_up_ne0 @ discord dot com
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%23+whoami;Penetration+Tester;Aspiring+Red+Team+Operator;Information+Security+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%23+whoami;Penetration+Tester;Aspiring+Red+Team+Operator;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
 
 <!--
 **du4L5ynchE1n/du4L5ynchE1N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
