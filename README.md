@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on an evasive shellcode loader
-- 🌱 I’m currently learning and interested in Red Teaming Ops and Malware Development 
+- 🌱 I’m currently learning/interested in Red Teaming Ops and Malware Development 
 - 📫 How to reach me: w4k3_up_ne0 @ discord dot com
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%23+whoami;Penetration+Tester;Aspiring+Red+Team+Operator;Information+Security+Enthusiast)](https://git.io/typing-svg)
